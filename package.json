@@ -25,14 +25,14 @@
   },
   "dependencies": {
     "@angular-eslint/schematics": "^18.3.0",
-    "@angular/animations": "^17.3.12",
-    "@angular/common": "^17.3.12",
-    "@angular/compiler": "^17.3.12",
-    "@angular/core": "^17.3.12",
-    "@angular/forms": "^17.3.12",
-    "@angular/platform-browser": "^17.3.12",
-    "@angular/platform-browser-dynamic": "^17.3.12",
-    "@angular/router": "^17.3.12",
+    "@angular/animations": "^18.2.0",
+    "@angular/common": "^18.2.0",
+    "@angular/compiler": "^18.2.0",
+    "@angular/core": "^18.2.0",
+    "@angular/forms": "^18.2.0",
+    "@angular/platform-browser": "^18.2.0",
+    "@angular/platform-browser-dynamic": "^18.2.0",
+    "@angular/router": "^18.2.0",
     "class-transformer": "^0.5.1",
     "reflect-metadata": "^0.1.13",
     "rxjs": "~7.8.0",
@@ -40,13 +40,13 @@
     "zone.js": "~0.14.10"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^17.3.8",
+    "@angular-devkit/build-angular": "^18.2.1",
     "@angular-eslint/builder": "16.3.1",
     "@angular-eslint/eslint-plugin": "16.3.1",
     "@angular-eslint/eslint-plugin-template": "16.3.1",
     "@angular-eslint/template-parser": "16.3.1",
-    "@angular/cli": "~17.3.8",
-    "@angular/compiler-cli": "^17.3.12",
+    "@angular/cli": "~18.2.1",
+    "@angular/compiler-cli": "^18.2.0",
     "@ngneat/until-destroy": "^10.0.0",
     "@types/jasmine": "~4.3.0",
     "@types/node": "^20.10.4",
@@ -90,18 +90,17 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ArslanAmeer/angular-boilerplate.git"
+    "url": "git+https://github.com/Mujahid-Iqbal/angular-web-boiler-plate-.git"
   },
   "keywords": [
-    "arslan ameer",
-    "https://arslanameer.com"
+    "Mujahid Iqbal"
   ],
-  "author": "ArslanAmeer",
+  "author": "Mujahid-Iqbal",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ArslanAmeer/angular-boilerplate/issues"
+    "url": "https://github.com/Mujahid-Iqbal/angular-web-boiler-plate-/issues"
   },
-  "homepage": "https://github.com/ArslanAmeer/angular-boilerplate#readme",
+  "homepage": "https://github.com/Mujahid-Iqbal/angular-web-boiler-plate-#readme",
   "directories": {
     "doc": "docs"
   }
